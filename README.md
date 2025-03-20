@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Imaad</h1>
+<h1 align="center">Hi, I'm Mohammed Imaad</h1>
 <h3 align="center">Just a Data Analyst who likes to turn data into insights! Currently working on Sales Analysis, Machine Learning and Web Scraping projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitimaad&label=Profile%20views&color=0e75b6&style=flat" alt="gitimaad" /> </p>
